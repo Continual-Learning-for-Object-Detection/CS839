@@ -5,11 +5,11 @@
 
 
 ## Full BDD100k demo
-![BDD100k_demo](bdd100k_demo/3a697de7-6afa05c2.jpg)
+![BDD100k_demo](bdd100k_demo/3a697de7-6afa05c2.jpg =426x240)
 
 [[Zip Download]](https://drive.google.com/file/d/1CQTTTtwErAMl4lbE11OH2LN3KleIOIWF/view?usp=sharing)
 
 ## Full Madison demo
-![Madison_demo](Madison_demo/20220315100724_000441.TS_20220410191537_0004.JPEG)
+![Madison_demo](Madison_demo/20220315100724_000441.TS_20220410191537_0004.JPEG =426x240)
 
 [[Zip Download]](https://drive.google.com/file/d/1CQTTTtwErAMl4lbE11OH2LN3KleIOIWF/view?usp=sharing)
